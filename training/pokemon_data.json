@@ -1,0 +1,6288 @@
+{
+  "1": {
+    "Name": "Bulbasaur",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bulbasaur.png"
+  },
+  "2": {
+    "Name": "Ivysaur",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ivysaur.png"
+  },
+  "3": {
+    "Name": "Venusaur",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/venusaur.png"
+  },
+  "4": {
+    "Name": "Charmander",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/charmander.png"
+  },
+  "5": {
+    "Name": "Charmeleon",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/charmeleon.png"
+  },
+  "6": {
+    "Name": "Charizard",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/charizard.png"
+  },
+  "7": {
+    "Name": "Squirtle",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/squirtle.png"
+  },
+  "8": {
+    "Name": "Wartortle",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wartortle.png"
+  },
+  "9": {
+    "Name": "Blastoise",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/blastoise.png"
+  },
+  "10": {
+    "Name": "Caterpie",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/caterpie.png"
+  },
+  "11": {
+    "Name": "Metapod",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/metapod.png"
+  },
+  "12": {
+    "Name": "Butterfree",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/butterfree.png"
+  },
+  "13": {
+    "Name": "Weedle",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/weedle.png"
+  },
+  "14": {
+    "Name": "Kakuna",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kakuna.png"
+  },
+  "15": {
+    "Name": "Beedrill",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/beedrill.png"
+  },
+  "16": {
+    "Name": "Pidgey",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pidgey.png"
+  },
+  "17": {
+    "Name": "Pidgeotto",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pidgeotto.png"
+  },
+  "18": {
+    "Name": "Pidgeot",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pidgeot.png"
+  },
+  "19": {
+    "Name": "Rattata",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rattata.png"
+  },
+  "20": {
+    "Name": "Raticate",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/raticate.png"
+  },
+  "21": {
+    "Name": "Spearow",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spearow.png"
+  },
+  "22": {
+    "Name": "Fearow",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/fearow.png"
+  },
+  "23": {
+    "Name": "Ekans",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ekans.png"
+  },
+  "24": {
+    "Name": "Arbok",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/arbok.png"
+  },
+  "25": {
+    "Name": "Pikachu",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pikachu.png"
+  },
+  "26": {
+    "Name": "Raichu",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/raichu.png"
+  },
+  "27": {
+    "Name": "Sandshrew",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sandshrew.png"
+  },
+  "28": {
+    "Name": "Sandslash",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sandslash.png"
+  },
+  "29": {
+    "Name": "Nidoran♀",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nidoran-f.png"
+  },
+  "30": {
+    "Name": "Nidorina",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nidorina.png"
+  },
+  "31": {
+    "Name": "Nidoqueen",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nidoqueen.png"
+  },
+  "32": {
+    "Name": "Nidoran♂",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nidoran-m.png"
+  },
+  "33": {
+    "Name": "Nidorino",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nidorino.png"
+  },
+  "34": {
+    "Name": "Nidoking",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nidoking.png"
+  },
+  "35": {
+    "Name": "Clefairy",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/clefairy.png"
+  },
+  "36": {
+    "Name": "Clefable",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/clefable.png"
+  },
+  "37": {
+    "Name": "Vulpix",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vulpix.png"
+  },
+  "38": {
+    "Name": "Ninetales",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ninetales.png"
+  },
+  "39": {
+    "Name": "Jigglypuff",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/jigglypuff.png"
+  },
+  "40": {
+    "Name": "Wigglytuff",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wigglytuff.png"
+  },
+  "41": {
+    "Name": "Zubat",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zubat.png"
+  },
+  "42": {
+    "Name": "Golbat",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/golbat.png"
+  },
+  "43": {
+    "Name": "Oddish",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/oddish.png"
+  },
+  "44": {
+    "Name": "Gloom",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gloom.png"
+  },
+  "45": {
+    "Name": "Vileplume",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vileplume.png"
+  },
+  "46": {
+    "Name": "Paras",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/paras.png"
+  },
+  "47": {
+    "Name": "Parasect",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/parasect.png"
+  },
+  "48": {
+    "Name": "Venonat",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/venonat.png"
+  },
+  "49": {
+    "Name": "Venomoth",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/venomoth.png"
+  },
+  "50": {
+    "Name": "Diglett",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/diglett.png"
+  },
+  "51": {
+    "Name": "Dugtrio",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dugtrio.png"
+  },
+  "52": {
+    "Name": "Meowth",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/meowth.png"
+  },
+  "53": {
+    "Name": "Persian",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/persian.png"
+  },
+  "54": {
+    "Name": "Psyduck",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/psyduck.png"
+  },
+  "55": {
+    "Name": "Golduck",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/golduck.png"
+  },
+  "56": {
+    "Name": "Mankey",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mankey.png"
+  },
+  "57": {
+    "Name": "Primeape",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/primeape.png"
+  },
+  "58": {
+    "Name": "Growlithe",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/growlithe.png"
+  },
+  "59": {
+    "Name": "Arcanine",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/arcanine.png"
+  },
+  "60": {
+    "Name": "Poliwag",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/poliwag.png"
+  },
+  "61": {
+    "Name": "Poliwhirl",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/poliwhirl.png"
+  },
+  "62": {
+    "Name": "Poliwrath",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/poliwrath.png"
+  },
+  "63": {
+    "Name": "Abra",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/abra.png"
+  },
+  "64": {
+    "Name": "Kadabra",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kadabra.png"
+  },
+  "65": {
+    "Name": "Alakazam",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/alakazam.png"
+  },
+  "66": {
+    "Name": "Machop",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/machop.png"
+  },
+  "67": {
+    "Name": "Machoke",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/machoke.png"
+  },
+  "68": {
+    "Name": "Machamp",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/machamp.png"
+  },
+  "69": {
+    "Name": "Bellsprout",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bellsprout.png"
+  },
+  "70": {
+    "Name": "Weepinbell",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/weepinbell.png"
+  },
+  "71": {
+    "Name": "Victreebel",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/victreebel.png"
+  },
+  "72": {
+    "Name": "Tentacool",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tentacool.png"
+  },
+  "73": {
+    "Name": "Tentacruel",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tentacruel.png"
+  },
+  "74": {
+    "Name": "Geodude",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/geodude.png"
+  },
+  "75": {
+    "Name": "Graveler",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/graveler.png"
+  },
+  "76": {
+    "Name": "Golem",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/golem.png"
+  },
+  "77": {
+    "Name": "Ponyta",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ponyta.png"
+  },
+  "78": {
+    "Name": "Rapidash",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rapidash.png"
+  },
+  "79": {
+    "Name": "Slowpoke",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/slowpoke.png"
+  },
+  "80": {
+    "Name": "Slowbro",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/slowbro.png"
+  },
+  "81": {
+    "Name": "Magnemite",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magnemite.png"
+  },
+  "82": {
+    "Name": "Magneton",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magneton.png"
+  },
+  "83": {
+    "Name": "Farfetch'd",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/farfetchd.png"
+  },
+  "84": {
+    "Name": "Doduo",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/doduo.png"
+  },
+  "85": {
+    "Name": "Dodrio",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dodrio.png"
+  },
+  "86": {
+    "Name": "Seel",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/seel.png"
+  },
+  "87": {
+    "Name": "Dewgong",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dewgong.png"
+  },
+  "88": {
+    "Name": "Grimer",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/grimer.png"
+  },
+  "89": {
+    "Name": "Muk",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/muk.png"
+  },
+  "90": {
+    "Name": "Shellder",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shellder.png"
+  },
+  "91": {
+    "Name": "Cloyster",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cloyster.png"
+  },
+  "92": {
+    "Name": "Gastly",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gastly.png"
+  },
+  "93": {
+    "Name": "Haunter",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/haunter.png"
+  },
+  "94": {
+    "Name": "Gengar",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gengar.png"
+  },
+  "95": {
+    "Name": "Onix",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/onix.png"
+  },
+  "96": {
+    "Name": "Drowzee",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/drowzee.png"
+  },
+  "97": {
+    "Name": "Hypno",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hypno.png"
+  },
+  "98": {
+    "Name": "Krabby",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/krabby.png"
+  },
+  "99": {
+    "Name": "Kingler",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kingler.png"
+  },
+  "100": {
+    "Name": "Voltorb",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/voltorb.png"
+  },
+  "101": {
+    "Name": "Electrode",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/electrode.png"
+  },
+  "102": {
+    "Name": "Exeggcute",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/exeggcute.png"
+  },
+  "103": {
+    "Name": "Exeggutor",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/exeggutor.png"
+  },
+  "104": {
+    "Name": "Cubone",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cubone.png"
+  },
+  "105": {
+    "Name": "Marowak",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/marowak.png"
+  },
+  "106": {
+    "Name": "Hitmonlee",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hitmonlee.png"
+  },
+  "107": {
+    "Name": "Hitmonchan",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hitmonchan.png"
+  },
+  "108": {
+    "Name": "Lickitung",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lickitung.png"
+  },
+  "109": {
+    "Name": "Koffing",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/koffing.png"
+  },
+  "110": {
+    "Name": "Weezing",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/weezing.png"
+  },
+  "111": {
+    "Name": "Rhyhorn",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rhyhorn.png"
+  },
+  "112": {
+    "Name": "Rhydon",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rhydon.png"
+  },
+  "113": {
+    "Name": "Chansey",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chansey.png"
+  },
+  "114": {
+    "Name": "Tangela",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tangela.png"
+  },
+  "115": {
+    "Name": "Kangaskhan",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kangaskhan.png"
+  },
+  "116": {
+    "Name": "Horsea",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/horsea.png"
+  },
+  "117": {
+    "Name": "Seadra",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/seadra.png"
+  },
+  "118": {
+    "Name": "Goldeen",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/goldeen.png"
+  },
+  "119": {
+    "Name": "Seaking",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/seaking.png"
+  },
+  "120": {
+    "Name": "Staryu",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/staryu.png"
+  },
+  "121": {
+    "Name": "Starmie",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/starmie.png"
+  },
+  "122": {
+    "Name": "Mr. Mime",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mr-mime.png"
+  },
+  "123": {
+    "Name": "Scyther",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/scyther.png"
+  },
+  "124": {
+    "Name": "Jynx",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/jynx.png"
+  },
+  "125": {
+    "Name": "Electabuzz",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/electabuzz.png"
+  },
+  "126": {
+    "Name": "Magmar",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magmar.png"
+  },
+  "127": {
+    "Name": "Pinsir",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pinsir.png"
+  },
+  "128": {
+    "Name": "Tauros",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tauros.png"
+  },
+  "129": {
+    "Name": "Magikarp",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magikarp.png"
+  },
+  "130": {
+    "Name": "Gyarados",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gyarados.png"
+  },
+  "131": {
+    "Name": "Lapras",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lapras.png"
+  },
+  "132": {
+    "Name": "Ditto",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ditto.png"
+  },
+  "133": {
+    "Name": "Eevee",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/eevee.png"
+  },
+  "134": {
+    "Name": "Vaporeon",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vaporeon.png"
+  },
+  "135": {
+    "Name": "Jolteon",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/jolteon.png"
+  },
+  "136": {
+    "Name": "Flareon",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/flareon.png"
+  },
+  "137": {
+    "Name": "Porygon",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/porygon.png"
+  },
+  "138": {
+    "Name": "Omanyte",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/omanyte.png"
+  },
+  "139": {
+    "Name": "Omastar",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/omastar.png"
+  },
+  "140": {
+    "Name": "Kabuto",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kabuto.png"
+  },
+  "141": {
+    "Name": "Kabutops",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kabutops.png"
+  },
+  "142": {
+    "Name": "Aerodactyl",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/aerodactyl.png"
+  },
+  "143": {
+    "Name": "Snorlax",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/snorlax.png"
+  },
+  "144": {
+    "Name": "Articuno",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/articuno.png"
+  },
+  "145": {
+    "Name": "Zapdos",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zapdos.png"
+  },
+  "146": {
+    "Name": "Moltres",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/moltres.png"
+  },
+  "147": {
+    "Name": "Dratini",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dratini.png"
+  },
+  "148": {
+    "Name": "Dragonair",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dragonair.png"
+  },
+  "149": {
+    "Name": "Dragonite",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dragonite.png"
+  },
+  "150": {
+    "Name": "Mewtwo",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mewtwo.png"
+  },
+  "151": {
+    "Name": "Mew",
+    "Generation": 1,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mew.png"
+  },
+  "152": {
+    "Name": "Chikorita",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chikorita.png"
+  },
+  "153": {
+    "Name": "Bayleef",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bayleef.png"
+  },
+  "154": {
+    "Name": "Meganium",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/meganium.png"
+  },
+  "155": {
+    "Name": "Cyndaquil",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cyndaquil.png"
+  },
+  "156": {
+    "Name": "Quilava",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/quilava.png"
+  },
+  "157": {
+    "Name": "Typhlosion",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/typhlosion.png"
+  },
+  "158": {
+    "Name": "Totodile",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/totodile.png"
+  },
+  "159": {
+    "Name": "Croconaw",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/croconaw.png"
+  },
+  "160": {
+    "Name": "Feraligatr",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/feraligatr.png"
+  },
+  "161": {
+    "Name": "Sentret",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sentret.png"
+  },
+  "162": {
+    "Name": "Furret",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/furret.png"
+  },
+  "163": {
+    "Name": "Hoothoot",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hoothoot.png"
+  },
+  "164": {
+    "Name": "Noctowl",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/noctowl.png"
+  },
+  "165": {
+    "Name": "Ledyba",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ledyba.png"
+  },
+  "166": {
+    "Name": "Ledian",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ledian.png"
+  },
+  "167": {
+    "Name": "Spinarak",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spinarak.png"
+  },
+  "168": {
+    "Name": "Ariados",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ariados.png"
+  },
+  "169": {
+    "Name": "Crobat",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/crobat.png"
+  },
+  "170": {
+    "Name": "Chinchou",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chinchou.png"
+  },
+  "171": {
+    "Name": "Lanturn",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lanturn.png"
+  },
+  "172": {
+    "Name": "Pichu",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pichu.png"
+  },
+  "173": {
+    "Name": "Cleffa",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cleffa.png"
+  },
+  "174": {
+    "Name": "Igglybuff",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/igglybuff.png"
+  },
+  "175": {
+    "Name": "Togepi",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/togepi.png"
+  },
+  "176": {
+    "Name": "Togetic",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/togetic.png"
+  },
+  "177": {
+    "Name": "Natu",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/natu.png"
+  },
+  "178": {
+    "Name": "Xatu",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/xatu.png"
+  },
+  "179": {
+    "Name": "Mareep",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mareep.png"
+  },
+  "180": {
+    "Name": "Flaaffy",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/flaaffy.png"
+  },
+  "181": {
+    "Name": "Ampharos",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ampharos.png"
+  },
+  "182": {
+    "Name": "Bellossom",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bellossom.png"
+  },
+  "183": {
+    "Name": "Marill",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/marill.png"
+  },
+  "184": {
+    "Name": "Azumarill",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/azumarill.png"
+  },
+  "185": {
+    "Name": "Sudowoodo",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sudowoodo.png"
+  },
+  "186": {
+    "Name": "Politoed",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/politoed.png"
+  },
+  "187": {
+    "Name": "Hoppip",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hoppip.png"
+  },
+  "188": {
+    "Name": "Skiploom",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/skiploom.png"
+  },
+  "189": {
+    "Name": "Jumpluff",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/jumpluff.png"
+  },
+  "190": {
+    "Name": "Aipom",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/aipom.png"
+  },
+  "191": {
+    "Name": "Sunkern",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sunkern.png"
+  },
+  "192": {
+    "Name": "Sunflora",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sunflora.png"
+  },
+  "193": {
+    "Name": "Yanma",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/yanma.png"
+  },
+  "194": {
+    "Name": "Wooper",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wooper.png"
+  },
+  "195": {
+    "Name": "Quagsire",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/quagsire.png"
+  },
+  "196": {
+    "Name": "Espeon",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/espeon.png"
+  },
+  "197": {
+    "Name": "Umbreon",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/umbreon.png"
+  },
+  "198": {
+    "Name": "Murkrow",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/murkrow.png"
+  },
+  "199": {
+    "Name": "Slowking",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/slowking.png"
+  },
+  "200": {
+    "Name": "Misdreavus",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/misdreavus.png"
+  },
+  "201": {
+    "Name": "Unown",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/unown.png"
+  },
+  "202": {
+    "Name": "Wobbuffet",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wobbuffet.png"
+  },
+  "203": {
+    "Name": "Girafarig",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/girafarig.png"
+  },
+  "204": {
+    "Name": "Pineco",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pineco.png"
+  },
+  "205": {
+    "Name": "Forretress",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/forretress.png"
+  },
+  "206": {
+    "Name": "Dunsparce",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dunsparce.png"
+  },
+  "207": {
+    "Name": "Gligar",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gligar.png"
+  },
+  "208": {
+    "Name": "Steelix",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/steelix.png"
+  },
+  "209": {
+    "Name": "Snubbull",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/snubbull.png"
+  },
+  "210": {
+    "Name": "Granbull",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/granbull.png"
+  },
+  "211": {
+    "Name": "Qwilfish",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/qwilfish.png"
+  },
+  "212": {
+    "Name": "Scizor",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/scizor.png"
+  },
+  "213": {
+    "Name": "Shuckle",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shuckle.png"
+  },
+  "214": {
+    "Name": "Heracross",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/heracross.png"
+  },
+  "215": {
+    "Name": "Sneasel",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sneasel.png"
+  },
+  "216": {
+    "Name": "Teddiursa",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/teddiursa.png"
+  },
+  "217": {
+    "Name": "Ursaring",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ursaring.png"
+  },
+  "218": {
+    "Name": "Slugma",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/slugma.png"
+  },
+  "219": {
+    "Name": "Magcargo",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magcargo.png"
+  },
+  "220": {
+    "Name": "Swinub",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swinub.png"
+  },
+  "221": {
+    "Name": "Piloswine",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/piloswine.png"
+  },
+  "222": {
+    "Name": "Corsola",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/corsola.png"
+  },
+  "223": {
+    "Name": "Remoraid",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/remoraid.png"
+  },
+  "224": {
+    "Name": "Octillery",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/octillery.png"
+  },
+  "225": {
+    "Name": "Delibird",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/delibird.png"
+  },
+  "226": {
+    "Name": "Mantine",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mantine.png"
+  },
+  "227": {
+    "Name": "Skarmory",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/skarmory.png"
+  },
+  "228": {
+    "Name": "Houndour",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/houndour.png"
+  },
+  "229": {
+    "Name": "Houndoom",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/houndoom.png"
+  },
+  "230": {
+    "Name": "Kingdra",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kingdra.png"
+  },
+  "231": {
+    "Name": "Phanpy",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/phanpy.png"
+  },
+  "232": {
+    "Name": "Donphan",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/donphan.png"
+  },
+  "233": {
+    "Name": "Porygon2",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/porygon2.png"
+  },
+  "234": {
+    "Name": "Stantler",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/stantler.png"
+  },
+  "235": {
+    "Name": "Smeargle",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/smeargle.png"
+  },
+  "236": {
+    "Name": "Tyrogue",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tyrogue.png"
+  },
+  "237": {
+    "Name": "Hitmontop",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hitmontop.png"
+  },
+  "238": {
+    "Name": "Smoochum",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/smoochum.png"
+  },
+  "239": {
+    "Name": "Elekid",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/elekid.png"
+  },
+  "240": {
+    "Name": "Magby",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magby.png"
+  },
+  "241": {
+    "Name": "Miltank",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/miltank.png"
+  },
+  "242": {
+    "Name": "Blissey",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/blissey.png"
+  },
+  "243": {
+    "Name": "Raikou",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/raikou.png"
+  },
+  "244": {
+    "Name": "Entei",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/entei.png"
+  },
+  "245": {
+    "Name": "Suicune",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/suicune.png"
+  },
+  "246": {
+    "Name": "Larvitar",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/larvitar.png"
+  },
+  "247": {
+    "Name": "Pupitar",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pupitar.png"
+  },
+  "248": {
+    "Name": "Tyranitar",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tyranitar.png"
+  },
+  "249": {
+    "Name": "Lugia",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lugia.png"
+  },
+  "250": {
+    "Name": "Ho-oh",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ho-oh.png"
+  },
+  "251": {
+    "Name": "Celebi",
+    "Generation": 2,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/celebi.png"
+  },
+  "252": {
+    "Name": "Treecko",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/treecko.png"
+  },
+  "253": {
+    "Name": "Grovyle",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/grovyle.png"
+  },
+  "254": {
+    "Name": "Sceptile",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sceptile.png"
+  },
+  "255": {
+    "Name": "Torchic",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/torchic.png"
+  },
+  "256": {
+    "Name": "Combusken",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/combusken.png"
+  },
+  "257": {
+    "Name": "Blaziken",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/blaziken.png"
+  },
+  "258": {
+    "Name": "Mudkip",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mudkip.png"
+  },
+  "259": {
+    "Name": "Marshtomp",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/marshtomp.png"
+  },
+  "260": {
+    "Name": "Swampert",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swampert.png"
+  },
+  "261": {
+    "Name": "Poochyena",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/poochyena.png"
+  },
+  "262": {
+    "Name": "Mightyena",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mightyena.png"
+  },
+  "263": {
+    "Name": "Zigzagoon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zigzagoon.png"
+  },
+  "264": {
+    "Name": "Linoone",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/linoone.png"
+  },
+  "265": {
+    "Name": "Wurmple",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wurmple.png"
+  },
+  "266": {
+    "Name": "Silcoon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/silcoon.png"
+  },
+  "267": {
+    "Name": "Beautifly",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/beautifly.png"
+  },
+  "268": {
+    "Name": "Cascoon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cascoon.png"
+  },
+  "269": {
+    "Name": "Dustox",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dustox.png"
+  },
+  "270": {
+    "Name": "Lotad",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lotad.png"
+  },
+  "271": {
+    "Name": "Lombre",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lombre.png"
+  },
+  "272": {
+    "Name": "Ludicolo",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ludicolo.png"
+  },
+  "273": {
+    "Name": "Seedot",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/seedot.png"
+  },
+  "274": {
+    "Name": "Nuzleaf",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nuzleaf.png"
+  },
+  "275": {
+    "Name": "Shiftry",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shiftry.png"
+  },
+  "276": {
+    "Name": "Taillow",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/taillow.png"
+  },
+  "277": {
+    "Name": "Swellow",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swellow.png"
+  },
+  "278": {
+    "Name": "Wingull",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wingull.png"
+  },
+  "279": {
+    "Name": "Pelipper",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pelipper.png"
+  },
+  "280": {
+    "Name": "Ralts",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ralts.png"
+  },
+  "281": {
+    "Name": "Kirlia",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kirlia.png"
+  },
+  "282": {
+    "Name": "Gardevoir",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gardevoir.png"
+  },
+  "283": {
+    "Name": "Surskit",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/surskit.png"
+  },
+  "284": {
+    "Name": "Masquerain",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/masquerain.png"
+  },
+  "285": {
+    "Name": "Shroomish",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shroomish.png"
+  },
+  "286": {
+    "Name": "Breloom",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/breloom.png"
+  },
+  "287": {
+    "Name": "Slakoth",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/slakoth.png"
+  },
+  "288": {
+    "Name": "Vigoroth",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vigoroth.png"
+  },
+  "289": {
+    "Name": "Slaking",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/slaking.png"
+  },
+  "290": {
+    "Name": "Nincada",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nincada.png"
+  },
+  "291": {
+    "Name": "Ninjask",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ninjask.png"
+  },
+  "292": {
+    "Name": "Shedinja",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shedinja.png"
+  },
+  "293": {
+    "Name": "Whismur",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/whismur.png"
+  },
+  "294": {
+    "Name": "Loudred",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/loudred.png"
+  },
+  "295": {
+    "Name": "Exploud",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/exploud.png"
+  },
+  "296": {
+    "Name": "Makuhita",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/makuhita.png"
+  },
+  "297": {
+    "Name": "Hariyama",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hariyama.png"
+  },
+  "298": {
+    "Name": "Azurill",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/azurill.png"
+  },
+  "299": {
+    "Name": "Nosepass",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nosepass.png"
+  },
+  "300": {
+    "Name": "Skitty",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/skitty.png"
+  },
+  "301": {
+    "Name": "Delcatty",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/delcatty.png"
+  },
+  "302": {
+    "Name": "Sableye",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sableye.png"
+  },
+  "303": {
+    "Name": "Mawile",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mawile.png"
+  },
+  "304": {
+    "Name": "Aron",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/aron.png"
+  },
+  "305": {
+    "Name": "Lairon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lairon.png"
+  },
+  "306": {
+    "Name": "Aggron",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/aggron.png"
+  },
+  "307": {
+    "Name": "Meditite",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/meditite.png"
+  },
+  "308": {
+    "Name": "Medicham",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/medicham.png"
+  },
+  "309": {
+    "Name": "Electrike",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/electrike.png"
+  },
+  "310": {
+    "Name": "Manectric",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/manectric.png"
+  },
+  "311": {
+    "Name": "Plusle",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/plusle.png"
+  },
+  "312": {
+    "Name": "Minun",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/minun.png"
+  },
+  "313": {
+    "Name": "Volbeat",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/volbeat.png"
+  },
+  "314": {
+    "Name": "Illumise",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/illumise.png"
+  },
+  "315": {
+    "Name": "Roselia",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/roselia.png"
+  },
+  "316": {
+    "Name": "Gulpin",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gulpin.png"
+  },
+  "317": {
+    "Name": "Swalot",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swalot.png"
+  },
+  "318": {
+    "Name": "Carvanha",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/carvanha.png"
+  },
+  "319": {
+    "Name": "Sharpedo",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sharpedo.png"
+  },
+  "320": {
+    "Name": "Wailmer",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wailmer.png"
+  },
+  "321": {
+    "Name": "Wailord",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wailord.png"
+  },
+  "322": {
+    "Name": "Numel",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/numel.png"
+  },
+  "323": {
+    "Name": "Camerupt",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/camerupt.png"
+  },
+  "324": {
+    "Name": "Torkoal",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/torkoal.png"
+  },
+  "325": {
+    "Name": "Spoink",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spoink.png"
+  },
+  "326": {
+    "Name": "Grumpig",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/grumpig.png"
+  },
+  "327": {
+    "Name": "Spinda",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spinda.png"
+  },
+  "328": {
+    "Name": "Trapinch",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/trapinch.png"
+  },
+  "329": {
+    "Name": "Vibrava",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vibrava.png"
+  },
+  "330": {
+    "Name": "Flygon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/flygon.png"
+  },
+  "331": {
+    "Name": "Cacnea",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cacnea.png"
+  },
+  "332": {
+    "Name": "Cacturne",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cacturne.png"
+  },
+  "333": {
+    "Name": "Swablu",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swablu.png"
+  },
+  "334": {
+    "Name": "Altaria",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/altaria.png"
+  },
+  "335": {
+    "Name": "Zangoose",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zangoose.png"
+  },
+  "336": {
+    "Name": "Seviper",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/seviper.png"
+  },
+  "337": {
+    "Name": "Lunatone",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lunatone.png"
+  },
+  "338": {
+    "Name": "Solrock",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/solrock.png"
+  },
+  "339": {
+    "Name": "Barboach",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/barboach.png"
+  },
+  "340": {
+    "Name": "Whiscash",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/whiscash.png"
+  },
+  "341": {
+    "Name": "Corphish",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/corphish.png"
+  },
+  "342": {
+    "Name": "Crawdaunt",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/crawdaunt.png"
+  },
+  "343": {
+    "Name": "Baltoy",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/baltoy.png"
+  },
+  "344": {
+    "Name": "Claydol",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/claydol.png"
+  },
+  "345": {
+    "Name": "Lileep",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lileep.png"
+  },
+  "346": {
+    "Name": "Cradily",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cradily.png"
+  },
+  "347": {
+    "Name": "Anorith",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/anorith.png"
+  },
+  "348": {
+    "Name": "Armaldo",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/armaldo.png"
+  },
+  "349": {
+    "Name": "Feebas",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/feebas.png"
+  },
+  "350": {
+    "Name": "Milotic",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/milotic.png"
+  },
+  "351": {
+    "Name": "Castform",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/castform.png"
+  },
+  "352": {
+    "Name": "Kecleon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kecleon.png"
+  },
+  "353": {
+    "Name": "Shuppet",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shuppet.png"
+  },
+  "354": {
+    "Name": "Banette",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/banette.png"
+  },
+  "355": {
+    "Name": "Duskull",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/duskull.png"
+  },
+  "356": {
+    "Name": "Dusclops",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dusclops.png"
+  },
+  "357": {
+    "Name": "Tropius",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tropius.png"
+  },
+  "358": {
+    "Name": "Chimecho",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chimecho.png"
+  },
+  "359": {
+    "Name": "Absol",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/absol.png"
+  },
+  "360": {
+    "Name": "Wynaut",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wynaut.png"
+  },
+  "361": {
+    "Name": "Snorunt",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/snorunt.png"
+  },
+  "362": {
+    "Name": "Glalie",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/glalie.png"
+  },
+  "363": {
+    "Name": "Spheal",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spheal.png"
+  },
+  "364": {
+    "Name": "Sealeo",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sealeo.png"
+  },
+  "365": {
+    "Name": "Walrein",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/walrein.png"
+  },
+  "366": {
+    "Name": "Clamperl",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/clamperl.png"
+  },
+  "367": {
+    "Name": "Huntail",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/huntail.png"
+  },
+  "368": {
+    "Name": "Gorebyss",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gorebyss.png"
+  },
+  "369": {
+    "Name": "Relicanth",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/relicanth.png"
+  },
+  "370": {
+    "Name": "Luvdisc",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/luvdisc.png"
+  },
+  "371": {
+    "Name": "Bagon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bagon.png"
+  },
+  "372": {
+    "Name": "Shelgon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shelgon.png"
+  },
+  "373": {
+    "Name": "Salamence",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/salamence.png"
+  },
+  "374": {
+    "Name": "Beldum",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/beldum.png"
+  },
+  "375": {
+    "Name": "Metang",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/metang.png"
+  },
+  "376": {
+    "Name": "Metagross",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/metagross.png"
+  },
+  "377": {
+    "Name": "Regirock",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/regirock.png"
+  },
+  "378": {
+    "Name": "Regice",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/regice.png"
+  },
+  "379": {
+    "Name": "Registeel",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/registeel.png"
+  },
+  "380": {
+    "Name": "Latias",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/latias.png"
+  },
+  "381": {
+    "Name": "Latios",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/latios.png"
+  },
+  "382": {
+    "Name": "Kyogre",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kyogre.png"
+  },
+  "383": {
+    "Name": "Groudon",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/groudon.png"
+  },
+  "384": {
+    "Name": "Rayquaza",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rayquaza.png"
+  },
+  "385": {
+    "Name": "Jirachi",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/jirachi.png"
+  },
+  "386": {
+    "Name": "Deoxys",
+    "Generation": 3,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/deoxys.png"
+  },
+  "387": {
+    "Name": "Turtwig",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/turtwig.png"
+  },
+  "388": {
+    "Name": "Grotle",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/grotle.png"
+  },
+  "389": {
+    "Name": "Torterra",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/torterra.png"
+  },
+  "390": {
+    "Name": "Chimchar",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chimchar.png"
+  },
+  "391": {
+    "Name": "Monferno",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/monferno.png"
+  },
+  "392": {
+    "Name": "Infernape",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/infernape.png"
+  },
+  "393": {
+    "Name": "Piplup",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/piplup.png"
+  },
+  "394": {
+    "Name": "Prinplup",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/prinplup.png"
+  },
+  "395": {
+    "Name": "Empoleon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/empoleon.png"
+  },
+  "396": {
+    "Name": "Starly",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/starly.png"
+  },
+  "397": {
+    "Name": "Staravia",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/staravia.png"
+  },
+  "398": {
+    "Name": "Staraptor",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/staraptor.png"
+  },
+  "399": {
+    "Name": "Bidoof",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bidoof.png"
+  },
+  "400": {
+    "Name": "Bibarel",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bibarel.png"
+  },
+  "401": {
+    "Name": "Kricketot",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kricketot.png"
+  },
+  "402": {
+    "Name": "Kricketune",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kricketune.png"
+  },
+  "403": {
+    "Name": "Shinx",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shinx.png"
+  },
+  "404": {
+    "Name": "Luxio",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/luxio.png"
+  },
+  "405": {
+    "Name": "Luxray",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/luxray.png"
+  },
+  "406": {
+    "Name": "Budew",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/budew.png"
+  },
+  "407": {
+    "Name": "Roserade",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/roserade.png"
+  },
+  "408": {
+    "Name": "Cranidos",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cranidos.png"
+  },
+  "409": {
+    "Name": "Rampardos",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rampardos.png"
+  },
+  "410": {
+    "Name": "Shieldon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shieldon.png"
+  },
+  "411": {
+    "Name": "Bastiodon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bastiodon.png"
+  },
+  "412": {
+    "Name": "Burmy",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/burmy.png"
+  },
+  "413": {
+    "Name": "Wormadam",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wormadam.png"
+  },
+  "414": {
+    "Name": "Mothim",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mothim.png"
+  },
+  "415": {
+    "Name": "Combee",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/combee.png"
+  },
+  "416": {
+    "Name": "Vespiquen",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vespiquen.png"
+  },
+  "417": {
+    "Name": "Pachirisu",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pachirisu.png"
+  },
+  "418": {
+    "Name": "Buizel",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/buizel.png"
+  },
+  "419": {
+    "Name": "Floatzel",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/floatzel.png"
+  },
+  "420": {
+    "Name": "Cherubi",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cherubi.png"
+  },
+  "421": {
+    "Name": "Cherrim",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cherrim.png"
+  },
+  "422": {
+    "Name": "Shellos",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shellos.png"
+  },
+  "423": {
+    "Name": "Gastrodon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gastrodon.png"
+  },
+  "424": {
+    "Name": "Ambipom",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ambipom.png"
+  },
+  "425": {
+    "Name": "Drifloon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/drifloon.png"
+  },
+  "426": {
+    "Name": "Drifblim",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/drifblim.png"
+  },
+  "427": {
+    "Name": "Buneary",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/buneary.png"
+  },
+  "428": {
+    "Name": "Lopunny",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lopunny.png"
+  },
+  "429": {
+    "Name": "Mismagius",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mismagius.png"
+  },
+  "430": {
+    "Name": "Honchkrow",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/honchkrow.png"
+  },
+  "431": {
+    "Name": "Glameow",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/glameow.png"
+  },
+  "432": {
+    "Name": "Purugly",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/purugly.png"
+  },
+  "433": {
+    "Name": "Chingling",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chingling.png"
+  },
+  "434": {
+    "Name": "Stunky",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/stunky.png"
+  },
+  "435": {
+    "Name": "Skuntank",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/skuntank.png"
+  },
+  "436": {
+    "Name": "Bronzor",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bronzor.png"
+  },
+  "437": {
+    "Name": "Bronzong",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bronzong.png"
+  },
+  "438": {
+    "Name": "Bonsly",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bonsly.png"
+  },
+  "439": {
+    "Name": "Mime Jr.",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mime-jr.png"
+  },
+  "440": {
+    "Name": "Happiny",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/happiny.png"
+  },
+  "441": {
+    "Name": "Chatot",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chatot.png"
+  },
+  "442": {
+    "Name": "Spiritomb",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spiritomb.png"
+  },
+  "443": {
+    "Name": "Gible",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gible.png"
+  },
+  "444": {
+    "Name": "Gabite",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gabite.png"
+  },
+  "445": {
+    "Name": "Garchomp",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/garchomp.png"
+  },
+  "446": {
+    "Name": "Munchlax",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/munchlax.png"
+  },
+  "447": {
+    "Name": "Riolu",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/riolu.png"
+  },
+  "448": {
+    "Name": "Lucario",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lucario.png"
+  },
+  "449": {
+    "Name": "Hippopotas",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hippopotas.png"
+  },
+  "450": {
+    "Name": "Hippowdon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hippowdon.png"
+  },
+  "451": {
+    "Name": "Skorupi",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/skorupi.png"
+  },
+  "452": {
+    "Name": "Drapion",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/drapion.png"
+  },
+  "453": {
+    "Name": "Croagunk",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/croagunk.png"
+  },
+  "454": {
+    "Name": "Toxicroak",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/toxicroak.png"
+  },
+  "455": {
+    "Name": "Carnivine",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/carnivine.png"
+  },
+  "456": {
+    "Name": "Finneon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/finneon.png"
+  },
+  "457": {
+    "Name": "Lumineon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lumineon.png"
+  },
+  "458": {
+    "Name": "Mantyke",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mantyke.png"
+  },
+  "459": {
+    "Name": "Snover",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/snover.png"
+  },
+  "460": {
+    "Name": "Abomasnow",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/abomasnow.png"
+  },
+  "461": {
+    "Name": "Weavile",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/weavile.png"
+  },
+  "462": {
+    "Name": "Magnezone",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magnezone.png"
+  },
+  "463": {
+    "Name": "Lickilicky",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lickilicky.png"
+  },
+  "464": {
+    "Name": "Rhyperior",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rhyperior.png"
+  },
+  "465": {
+    "Name": "Tangrowth",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tangrowth.png"
+  },
+  "466": {
+    "Name": "Electivire",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/electivire.png"
+  },
+  "467": {
+    "Name": "Magmortar",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magmortar.png"
+  },
+  "468": {
+    "Name": "Togekiss",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/togekiss.png"
+  },
+  "469": {
+    "Name": "Yanmega",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/yanmega.png"
+  },
+  "470": {
+    "Name": "Leafeon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/leafeon.png"
+  },
+  "471": {
+    "Name": "Glaceon",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/glaceon.png"
+  },
+  "472": {
+    "Name": "Gliscor",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gliscor.png"
+  },
+  "473": {
+    "Name": "Mamoswine",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mamoswine.png"
+  },
+  "474": {
+    "Name": "Porygon-Z",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/porygon-z.png"
+  },
+  "475": {
+    "Name": "Gallade",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gallade.png"
+  },
+  "476": {
+    "Name": "Probopass",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/probopass.png"
+  },
+  "477": {
+    "Name": "Dusknoir",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dusknoir.png"
+  },
+  "478": {
+    "Name": "Froslass",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/froslass.png"
+  },
+  "479": {
+    "Name": "Rotom",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rotom.png"
+  },
+  "480": {
+    "Name": "Uxie",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/uxie.png"
+  },
+  "481": {
+    "Name": "Mesprit",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mesprit.png"
+  },
+  "482": {
+    "Name": "Azelf",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/azelf.png"
+  },
+  "483": {
+    "Name": "Dialga",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dialga.png"
+  },
+  "484": {
+    "Name": "Palkia",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/palkia.png"
+  },
+  "485": {
+    "Name": "Heatran",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/heatran.png"
+  },
+  "486": {
+    "Name": "Regigigas",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/regigigas.png"
+  },
+  "487": {
+    "Name": "Giratina",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/giratina.png"
+  },
+  "488": {
+    "Name": "Cresselia",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cresselia.png"
+  },
+  "489": {
+    "Name": "Phione",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/phione.png"
+  },
+  "490": {
+    "Name": "Manaphy",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/manaphy.png"
+  },
+  "491": {
+    "Name": "Darkrai",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/darkrai.png"
+  },
+  "492": {
+    "Name": "Shaymin",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shaymin.png"
+  },
+  "493": {
+    "Name": "Arceus",
+    "Generation": 4,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/arceus.png"
+  },
+  "494": {
+    "Name": "Victini",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/victini.png"
+  },
+  "495": {
+    "Name": "Snivy",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/snivy.png"
+  },
+  "496": {
+    "Name": "Servine",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/servine.png"
+  },
+  "497": {
+    "Name": "Serperior",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/serperior.png"
+  },
+  "498": {
+    "Name": "Tepig",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tepig.png"
+  },
+  "499": {
+    "Name": "Pignite",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pignite.png"
+  },
+  "500": {
+    "Name": "Emboar",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/emboar.png"
+  },
+  "501": {
+    "Name": "Oshawott",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/oshawott.png"
+  },
+  "502": {
+    "Name": "Dewott",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dewott.png"
+  },
+  "503": {
+    "Name": "Samurott",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/samurott.png"
+  },
+  "504": {
+    "Name": "Patrat",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/patrat.png"
+  },
+  "505": {
+    "Name": "Watchog",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/watchog.png"
+  },
+  "506": {
+    "Name": "Lillipup",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lillipup.png"
+  },
+  "507": {
+    "Name": "Herdier",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/herdier.png"
+  },
+  "508": {
+    "Name": "Stoutland",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/stoutland.png"
+  },
+  "509": {
+    "Name": "Purrloin",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/purrloin.png"
+  },
+  "510": {
+    "Name": "Liepard",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/liepard.png"
+  },
+  "511": {
+    "Name": "Pansage",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pansage.png"
+  },
+  "512": {
+    "Name": "Simisage",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/simisage.png"
+  },
+  "513": {
+    "Name": "Pansear",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pansear.png"
+  },
+  "514": {
+    "Name": "Simisear",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/simisear.png"
+  },
+  "515": {
+    "Name": "Panpour",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/panpour.png"
+  },
+  "516": {
+    "Name": "Simipour",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/simipour.png"
+  },
+  "517": {
+    "Name": "Munna",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/munna.png"
+  },
+  "518": {
+    "Name": "Musharna",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/musharna.png"
+  },
+  "519": {
+    "Name": "Pidove",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pidove.png"
+  },
+  "520": {
+    "Name": "Tranquill",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tranquill.png"
+  },
+  "521": {
+    "Name": "Unfezant",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/unfezant.png"
+  },
+  "522": {
+    "Name": "Blitzle",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/blitzle.png"
+  },
+  "523": {
+    "Name": "Zebstrika",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zebstrika.png"
+  },
+  "524": {
+    "Name": "Roggenrola",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/roggenrola.png"
+  },
+  "525": {
+    "Name": "Boldore",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/boldore.png"
+  },
+  "526": {
+    "Name": "Gigalith",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gigalith.png"
+  },
+  "527": {
+    "Name": "Woobat",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/woobat.png"
+  },
+  "528": {
+    "Name": "Swoobat",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swoobat.png"
+  },
+  "529": {
+    "Name": "Drilbur",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/drilbur.png"
+  },
+  "530": {
+    "Name": "Excadrill",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/excadrill.png"
+  },
+  "531": {
+    "Name": "Audino",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/audino.png"
+  },
+  "532": {
+    "Name": "Timburr",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/timburr.png"
+  },
+  "533": {
+    "Name": "Gurdurr",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gurdurr.png"
+  },
+  "534": {
+    "Name": "Conkeldurr",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/conkeldurr.png"
+  },
+  "535": {
+    "Name": "Tympole",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tympole.png"
+  },
+  "536": {
+    "Name": "Palpitoad",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/palpitoad.png"
+  },
+  "537": {
+    "Name": "Seismitoad",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/seismitoad.png"
+  },
+  "538": {
+    "Name": "Throh",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/throh.png"
+  },
+  "539": {
+    "Name": "Sawk",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sawk.png"
+  },
+  "540": {
+    "Name": "Sewaddle",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sewaddle.png"
+  },
+  "541": {
+    "Name": "Swadloon",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swadloon.png"
+  },
+  "542": {
+    "Name": "Leavanny",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/leavanny.png"
+  },
+  "543": {
+    "Name": "Venipede",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/venipede.png"
+  },
+  "544": {
+    "Name": "Whirlipede",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/whirlipede.png"
+  },
+  "545": {
+    "Name": "Scolipede",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/scolipede.png"
+  },
+  "546": {
+    "Name": "Cottonee",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cottonee.png"
+  },
+  "547": {
+    "Name": "Whimsicott",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/whimsicott.png"
+  },
+  "548": {
+    "Name": "Petilil",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/petilil.png"
+  },
+  "549": {
+    "Name": "Lilligant",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lilligant.png"
+  },
+  "550": {
+    "Name": "Basculin",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/basculin.png"
+  },
+  "551": {
+    "Name": "Sandile",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sandile.png"
+  },
+  "552": {
+    "Name": "Krokorok",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/krokorok.png"
+  },
+  "553": {
+    "Name": "Krookodile",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/krookodile.png"
+  },
+  "554": {
+    "Name": "Darumaka",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/darumaka.png"
+  },
+  "555": {
+    "Name": "Darmanitan",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/darmanitan.png"
+  },
+  "556": {
+    "Name": "Maractus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/maractus.png"
+  },
+  "557": {
+    "Name": "Dwebble",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dwebble.png"
+  },
+  "558": {
+    "Name": "Crustle",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/crustle.png"
+  },
+  "559": {
+    "Name": "Scraggy",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/scraggy.png"
+  },
+  "560": {
+    "Name": "Scrafty",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/scrafty.png"
+  },
+  "561": {
+    "Name": "Sigilyph",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sigilyph.png"
+  },
+  "562": {
+    "Name": "Yamask",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/yamask.png"
+  },
+  "563": {
+    "Name": "Cofagrigus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cofagrigus.png"
+  },
+  "564": {
+    "Name": "Tirtouga",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tirtouga.png"
+  },
+  "565": {
+    "Name": "Carracosta",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/carracosta.png"
+  },
+  "566": {
+    "Name": "Archen",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/archen.png"
+  },
+  "567": {
+    "Name": "Archeops",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/archeops.png"
+  },
+  "568": {
+    "Name": "Trubbish",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/trubbish.png"
+  },
+  "569": {
+    "Name": "Garbodor",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/garbodor.png"
+  },
+  "570": {
+    "Name": "Zorua",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zorua.png"
+  },
+  "571": {
+    "Name": "Zoroark",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zoroark.png"
+  },
+  "572": {
+    "Name": "Minccino",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/minccino.png"
+  },
+  "573": {
+    "Name": "Cinccino",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cinccino.png"
+  },
+  "574": {
+    "Name": "Gothita",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gothita.png"
+  },
+  "575": {
+    "Name": "Gothorita",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gothorita.png"
+  },
+  "576": {
+    "Name": "Gothitelle",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gothitelle.png"
+  },
+  "577": {
+    "Name": "Solosis",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/solosis.png"
+  },
+  "578": {
+    "Name": "Duosion",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/duosion.png"
+  },
+  "579": {
+    "Name": "Reuniclus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/reuniclus.png"
+  },
+  "580": {
+    "Name": "Ducklett",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ducklett.png"
+  },
+  "581": {
+    "Name": "Swanna",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swanna.png"
+  },
+  "582": {
+    "Name": "Vanillite",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vanillite.png"
+  },
+  "583": {
+    "Name": "Vanillish",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vanillish.png"
+  },
+  "584": {
+    "Name": "Vanilluxe",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vanilluxe.png"
+  },
+  "585": {
+    "Name": "Deerling",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/deerling.png"
+  },
+  "586": {
+    "Name": "Sawsbuck",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sawsbuck.png"
+  },
+  "587": {
+    "Name": "Emolga",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/emolga.png"
+  },
+  "588": {
+    "Name": "Karrablast",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/karrablast.png"
+  },
+  "589": {
+    "Name": "Escavalier",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/escavalier.png"
+  },
+  "590": {
+    "Name": "Foongus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/foongus.png"
+  },
+  "591": {
+    "Name": "Amoonguss",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/amoonguss.png"
+  },
+  "592": {
+    "Name": "Frillish",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/frillish.png"
+  },
+  "593": {
+    "Name": "Jellicent",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/jellicent.png"
+  },
+  "594": {
+    "Name": "Alomomola",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/alomomola.png"
+  },
+  "595": {
+    "Name": "Joltik",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/joltik.png"
+  },
+  "596": {
+    "Name": "Galvantula",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/galvantula.png"
+  },
+  "597": {
+    "Name": "Ferroseed",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ferroseed.png"
+  },
+  "598": {
+    "Name": "Ferrothorn",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ferrothorn.png"
+  },
+  "599": {
+    "Name": "Klink",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/klink.png"
+  },
+  "600": {
+    "Name": "Klang",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/klang.png"
+  },
+  "601": {
+    "Name": "Klinklang",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/klinklang.png"
+  },
+  "602": {
+    "Name": "Tynamo",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tynamo.png"
+  },
+  "603": {
+    "Name": "Eelektrik",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/eelektrik.png"
+  },
+  "604": {
+    "Name": "Eelektross",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/eelektross.png"
+  },
+  "605": {
+    "Name": "Elgyem",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/elgyem.png"
+  },
+  "606": {
+    "Name": "Beheeyem",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/beheeyem.png"
+  },
+  "607": {
+    "Name": "Litwick",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/litwick.png"
+  },
+  "608": {
+    "Name": "Lampent",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lampent.png"
+  },
+  "609": {
+    "Name": "Chandelure",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chandelure.png"
+  },
+  "610": {
+    "Name": "Axew",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/axew.png"
+  },
+  "611": {
+    "Name": "Fraxure",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/fraxure.png"
+  },
+  "612": {
+    "Name": "Haxorus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/haxorus.png"
+  },
+  "613": {
+    "Name": "Cubchoo",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cubchoo.png"
+  },
+  "614": {
+    "Name": "Beartic",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/beartic.png"
+  },
+  "615": {
+    "Name": "Cryogonal",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cryogonal.png"
+  },
+  "616": {
+    "Name": "Shelmet",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shelmet.png"
+  },
+  "617": {
+    "Name": "Accelgor",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/accelgor.png"
+  },
+  "618": {
+    "Name": "Stunfisk",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/stunfisk.png"
+  },
+  "619": {
+    "Name": "Mienfoo",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mienfoo.png"
+  },
+  "620": {
+    "Name": "Mienshao",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mienshao.png"
+  },
+  "621": {
+    "Name": "Druddigon",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/druddigon.png"
+  },
+  "622": {
+    "Name": "Golett",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/golett.png"
+  },
+  "623": {
+    "Name": "Golurk",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/golurk.png"
+  },
+  "624": {
+    "Name": "Pawniard",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pawniard.png"
+  },
+  "625": {
+    "Name": "Bisharp",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bisharp.png"
+  },
+  "626": {
+    "Name": "Bouffalant",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bouffalant.png"
+  },
+  "627": {
+    "Name": "Rufflet",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rufflet.png"
+  },
+  "628": {
+    "Name": "Braviary",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/braviary.png"
+  },
+  "629": {
+    "Name": "Vullaby",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vullaby.png"
+  },
+  "630": {
+    "Name": "Mandibuzz",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mandibuzz.png"
+  },
+  "631": {
+    "Name": "Heatmor",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/heatmor.png"
+  },
+  "632": {
+    "Name": "Durant",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/durant.png"
+  },
+  "633": {
+    "Name": "Deino",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/deino.png"
+  },
+  "634": {
+    "Name": "Zweilous",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zweilous.png"
+  },
+  "635": {
+    "Name": "Hydreigon",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hydreigon.png"
+  },
+  "636": {
+    "Name": "Larvesta",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/larvesta.png"
+  },
+  "637": {
+    "Name": "Volcarona",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/volcarona.png"
+  },
+  "638": {
+    "Name": "Cobalion",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cobalion.png"
+  },
+  "639": {
+    "Name": "Terrakion",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/terrakion.png"
+  },
+  "640": {
+    "Name": "Virizion",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/virizion.png"
+  },
+  "641": {
+    "Name": "Tornadus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tornadus.png"
+  },
+  "642": {
+    "Name": "Thundurus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/thundurus.png"
+  },
+  "643": {
+    "Name": "Reshiram",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/reshiram.png"
+  },
+  "644": {
+    "Name": "Zekrom",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zekrom.png"
+  },
+  "645": {
+    "Name": "Landorus",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/landorus.png"
+  },
+  "646": {
+    "Name": "Kyurem",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kyurem.png"
+  },
+  "647": {
+    "Name": "Keldeo",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/keldeo.png"
+  },
+  "648": {
+    "Name": "Meloetta",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/meloetta.png"
+  },
+  "649": {
+    "Name": "Genesect",
+    "Generation": 5,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/genesect.png"
+  },
+  "650": {
+    "Name": "Chespin",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chespin.png"
+  },
+  "651": {
+    "Name": "Quilladin",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/quilladin.png"
+  },
+  "652": {
+    "Name": "Chesnaught",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/chesnaught.png"
+  },
+  "653": {
+    "Name": "Fennekin",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/fennekin.png"
+  },
+  "654": {
+    "Name": "Braixen",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/braixen.png"
+  },
+  "655": {
+    "Name": "Delphox",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/delphox.png"
+  },
+  "656": {
+    "Name": "Froakie",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/froakie.png"
+  },
+  "657": {
+    "Name": "Frogadier",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/frogadier.png"
+  },
+  "658": {
+    "Name": "Greninja",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/greninja.png"
+  },
+  "659": {
+    "Name": "Bunnelby",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bunnelby.png"
+  },
+  "660": {
+    "Name": "Diggersby",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/diggersby.png"
+  },
+  "661": {
+    "Name": "Fletchling",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/fletchling.png"
+  },
+  "662": {
+    "Name": "Fletchinder",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/fletchinder.png"
+  },
+  "663": {
+    "Name": "Talonflame",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/talonflame.png"
+  },
+  "664": {
+    "Name": "Scatterbug",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/scatterbug.png"
+  },
+  "665": {
+    "Name": "Spewpa",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spewpa.png"
+  },
+  "666": {
+    "Name": "Vivillon",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vivillon.png"
+  },
+  "667": {
+    "Name": "Litleo",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/litleo.png"
+  },
+  "668": {
+    "Name": "Pyroar",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pyroar.png"
+  },
+  "669": {
+    "Name": "Flabébé",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/flabebe.png"
+  },
+  "670": {
+    "Name": "Floette",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/floette.png"
+  },
+  "671": {
+    "Name": "Florges",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/florges.png"
+  },
+  "672": {
+    "Name": "Skiddo",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/skiddo.png"
+  },
+  "673": {
+    "Name": "Gogoat",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gogoat.png"
+  },
+  "674": {
+    "Name": "Pancham",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pancham.png"
+  },
+  "675": {
+    "Name": "Pangoro",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pangoro.png"
+  },
+  "676": {
+    "Name": "Furfrou",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/furfrou.png"
+  },
+  "677": {
+    "Name": "Espurr",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/espurr.png"
+  },
+  "678": {
+    "Name": "Meowstic",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/meowstic.png"
+  },
+  "679": {
+    "Name": "Honedge",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/honedge.png"
+  },
+  "680": {
+    "Name": "Doublade",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/doublade.png"
+  },
+  "681": {
+    "Name": "Aegislash",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/aegislash.png"
+  },
+  "682": {
+    "Name": "Spritzee",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/spritzee.png"
+  },
+  "683": {
+    "Name": "Aromatisse",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/aromatisse.png"
+  },
+  "684": {
+    "Name": "Swirlix",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/swirlix.png"
+  },
+  "685": {
+    "Name": "Slurpuff",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/slurpuff.png"
+  },
+  "686": {
+    "Name": "Inkay",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/inkay.png"
+  },
+  "687": {
+    "Name": "Malamar",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/malamar.png"
+  },
+  "688": {
+    "Name": "Binacle",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/binacle.png"
+  },
+  "689": {
+    "Name": "Barbaracle",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/barbaracle.png"
+  },
+  "690": {
+    "Name": "Skrelp",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/skrelp.png"
+  },
+  "691": {
+    "Name": "Dragalge",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dragalge.png"
+  },
+  "692": {
+    "Name": "Clauncher",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/clauncher.png"
+  },
+  "693": {
+    "Name": "Clawitzer",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/clawitzer.png"
+  },
+  "694": {
+    "Name": "Helioptile",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/helioptile.png"
+  },
+  "695": {
+    "Name": "Heliolisk",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/heliolisk.png"
+  },
+  "696": {
+    "Name": "Tyrunt",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tyrunt.png"
+  },
+  "697": {
+    "Name": "Tyrantrum",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tyrantrum.png"
+  },
+  "698": {
+    "Name": "Amaura",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/amaura.png"
+  },
+  "699": {
+    "Name": "Aurorus",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/aurorus.png"
+  },
+  "700": {
+    "Name": "Sylveon",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sylveon.png"
+  },
+  "701": {
+    "Name": "Hawlucha",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hawlucha.png"
+  },
+  "702": {
+    "Name": "Dedenne",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dedenne.png"
+  },
+  "703": {
+    "Name": "Carbink",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/carbink.png"
+  },
+  "704": {
+    "Name": "Goomy",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/goomy.png"
+  },
+  "705": {
+    "Name": "Sliggoo",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sliggoo.png"
+  },
+  "706": {
+    "Name": "Goodra",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/goodra.png"
+  },
+  "707": {
+    "Name": "Klefki",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/klefki.png"
+  },
+  "708": {
+    "Name": "Phantump",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/phantump.png"
+  },
+  "709": {
+    "Name": "Trevenant",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/trevenant.png"
+  },
+  "710": {
+    "Name": "Pumpkaboo",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pumpkaboo.png"
+  },
+  "711": {
+    "Name": "Gourgeist",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gourgeist.png"
+  },
+  "712": {
+    "Name": "Bergmite",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bergmite.png"
+  },
+  "713": {
+    "Name": "Avalugg",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/avalugg.png"
+  },
+  "714": {
+    "Name": "Noibat",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/noibat.png"
+  },
+  "715": {
+    "Name": "Noivern",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/noivern.png"
+  },
+  "716": {
+    "Name": "Xerneas",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/xerneas.png"
+  },
+  "717": {
+    "Name": "Yveltal",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/yveltal.png"
+  },
+  "718": {
+    "Name": "Zygarde",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zygarde.png"
+  },
+  "719": {
+    "Name": "Diancie",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/diancie.png"
+  },
+  "720": {
+    "Name": "Hoopa",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hoopa.png"
+  },
+  "721": {
+    "Name": "Volcanion",
+    "Generation": 6,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/volcanion.png"
+  },
+  "722": {
+    "Name": "Rowlet",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rowlet.png"
+  },
+  "723": {
+    "Name": "Dartrix",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dartrix.png"
+  },
+  "724": {
+    "Name": "Decidueye",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/decidueye.png"
+  },
+  "725": {
+    "Name": "Litten",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/litten.png"
+  },
+  "726": {
+    "Name": "Torracat",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/torracat.png"
+  },
+  "727": {
+    "Name": "Incineroar",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/incineroar.png"
+  },
+  "728": {
+    "Name": "Popplio",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/popplio.png"
+  },
+  "729": {
+    "Name": "Brionne",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/brionne.png"
+  },
+  "730": {
+    "Name": "Primarina",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/primarina.png"
+  },
+  "731": {
+    "Name": "Pikipek",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pikipek.png"
+  },
+  "732": {
+    "Name": "Trumbeak",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/trumbeak.png"
+  },
+  "733": {
+    "Name": "Toucannon",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/toucannon.png"
+  },
+  "734": {
+    "Name": "Yungoos",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/yungoos.png"
+  },
+  "735": {
+    "Name": "Gumshoos",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/gumshoos.png"
+  },
+  "736": {
+    "Name": "Grubbin",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/grubbin.png"
+  },
+  "737": {
+    "Name": "Charjabug",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/charjabug.png"
+  },
+  "738": {
+    "Name": "Vikavolt",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/vikavolt.png"
+  },
+  "739": {
+    "Name": "Crabrawler",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/crabrawler.png"
+  },
+  "740": {
+    "Name": "Crabominable",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/crabominable.png"
+  },
+  "741": {
+    "Name": "Oricorio",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/oricorio.png"
+  },
+  "742": {
+    "Name": "Cutiefly",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cutiefly.png"
+  },
+  "743": {
+    "Name": "Ribombee",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/ribombee.png"
+  },
+  "744": {
+    "Name": "Rockruff",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/rockruff.png"
+  },
+  "745": {
+    "Name": "Lycanroc",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lycanroc.png"
+  },
+  "746": {
+    "Name": "Wishiwashi",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wishiwashi.png"
+  },
+  "747": {
+    "Name": "Mareanie",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mareanie.png"
+  },
+  "748": {
+    "Name": "Toxapex",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/toxapex.png"
+  },
+  "749": {
+    "Name": "Mudbray",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mudbray.png"
+  },
+  "750": {
+    "Name": "Mudsdale",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mudsdale.png"
+  },
+  "751": {
+    "Name": "Dewpider",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dewpider.png"
+  },
+  "752": {
+    "Name": "Araquanid",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/araquanid.png"
+  },
+  "753": {
+    "Name": "Fomantis",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/fomantis.png"
+  },
+  "754": {
+    "Name": "Lurantis",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lurantis.png"
+  },
+  "755": {
+    "Name": "Morelull",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/morelull.png"
+  },
+  "756": {
+    "Name": "Shiinotic",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/shiinotic.png"
+  },
+  "757": {
+    "Name": "Salandit",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/salandit.png"
+  },
+  "758": {
+    "Name": "Salazzle",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/salazzle.png"
+  },
+  "759": {
+    "Name": "Stufful",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/stufful.png"
+  },
+  "760": {
+    "Name": "Bewear",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bewear.png"
+  },
+  "761": {
+    "Name": "Bounsweet",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bounsweet.png"
+  },
+  "762": {
+    "Name": "Steenee",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/steenee.png"
+  },
+  "763": {
+    "Name": "Tsareena",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tsareena.png"
+  },
+  "764": {
+    "Name": "Comfey",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/comfey.png"
+  },
+  "765": {
+    "Name": "Oranguru",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/oranguru.png"
+  },
+  "766": {
+    "Name": "Passimian",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/passimian.png"
+  },
+  "767": {
+    "Name": "Wimpod",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/wimpod.png"
+  },
+  "768": {
+    "Name": "Golisopod",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/golisopod.png"
+  },
+  "769": {
+    "Name": "Sandygast",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/sandygast.png"
+  },
+  "770": {
+    "Name": "Palossand",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/palossand.png"
+  },
+  "771": {
+    "Name": "Pyukumuku",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pyukumuku.png"
+  },
+  "772": {
+    "Name": "Type: Null",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/type-null.png"
+  },
+  "773": {
+    "Name": "Silvally",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/silvally.png"
+  },
+  "774": {
+    "Name": "Minior",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/minior.png"
+  },
+  "775": {
+    "Name": "Komala",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/komala.png"
+  },
+  "776": {
+    "Name": "Turtonator",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/turtonator.png"
+  },
+  "777": {
+    "Name": "Togedemaru",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/togedemaru.png"
+  },
+  "778": {
+    "Name": "Mimikyu",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/mimikyu.png"
+  },
+  "779": {
+    "Name": "Bruxish",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/bruxish.png"
+  },
+  "780": {
+    "Name": "Drampa",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/drampa.png"
+  },
+  "781": {
+    "Name": "Dhelmise",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/dhelmise.png"
+  },
+  "782": {
+    "Name": "Jangmo-o",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/jangmo-o.png"
+  },
+  "783": {
+    "Name": "Hakamo-o",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/hakamo-o.png"
+  },
+  "784": {
+    "Name": "Kommo-o",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kommo-o.png"
+  },
+  "785": {
+    "Name": "Tapu Koko",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tapu-koko.png"
+  },
+  "786": {
+    "Name": "Tapu Lele",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tapu-lele.png"
+  },
+  "787": {
+    "Name": "Tapu Bulu",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tapu-bulu.png"
+  },
+  "788": {
+    "Name": "Tapu Fini",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/tapu-fini.png"
+  },
+  "789": {
+    "Name": "Cosmog",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cosmog.png"
+  },
+  "790": {
+    "Name": "Cosmoem",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/cosmoem.png"
+  },
+  "791": {
+    "Name": "Solgaleo",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/solgaleo.png"
+  },
+  "792": {
+    "Name": "Lunala",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/lunala.png"
+  },
+  "793": {
+    "Name": "Nihilego",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/nihilego.png"
+  },
+  "794": {
+    "Name": "Buzzwole",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/buzzwole.png"
+  },
+  "795": {
+    "Name": "Pheromosa",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/pheromosa.png"
+  },
+  "796": {
+    "Name": "Xurkitree",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/xurkitree.png"
+  },
+  "797": {
+    "Name": "Celesteela",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/celesteela.png"
+  },
+  "798": {
+    "Name": "Kartana",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/kartana.png"
+  },
+  "799": {
+    "Name": "Guzzlord",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/guzzlord.png"
+  },
+  "800": {
+    "Name": "Necrozma",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/necrozma.png"
+  },
+  "801": {
+    "Name": "Magearna",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/magearna.png"
+  },
+  "802": {
+    "Name": "Marshadow",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/marshadow.png"
+  },
+  "803": {
+    "Name": "Poipole",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/poipole.png"
+  },
+  "804": {
+    "Name": "Naganadel",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/naganadel.png"
+  },
+  "805": {
+    "Name": "Stakataka",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/stakataka.png"
+  },
+  "806": {
+    "Name": "Blacephalon",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/blacephalon.png"
+  },
+  "807": {
+    "Name": "Zeraora",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/zeraora.png"
+  },
+  "808": {
+    "Name": "Meltan",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/meltan.png"
+  },
+  "809": {
+    "Name": "Melmetal",
+    "Generation": 7,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/bank/normal/melmetal.png"
+  },
+  "810": {
+    "Name": "Grookey",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/grookey.png"
+  },
+  "811": {
+    "Name": "Thwackey",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/thwackey.png"
+  },
+  "812": {
+    "Name": "Rillaboom",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/rillaboom.png"
+  },
+  "813": {
+    "Name": "Scorbunny",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/scorbunny.png"
+  },
+  "814": {
+    "Name": "Raboot",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/raboot.png"
+  },
+  "815": {
+    "Name": "Cinderace",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/cinderace.png"
+  },
+  "816": {
+    "Name": "Sobble",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/sobble.png"
+  },
+  "817": {
+    "Name": "Drizzile",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/drizzile.png"
+  },
+  "818": {
+    "Name": "Inteleon",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/inteleon.png"
+  },
+  "819": {
+    "Name": "Skwovet",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/skwovet.png"
+  },
+  "820": {
+    "Name": "Greedent",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/greedent.png"
+  },
+  "821": {
+    "Name": "Rookidee",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/rookidee.png"
+  },
+  "822": {
+    "Name": "Corvisquire",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/corvisquire.png"
+  },
+  "823": {
+    "Name": "Corviknight",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/corviknight.png"
+  },
+  "824": {
+    "Name": "Blipbug",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/blipbug.png"
+  },
+  "825": {
+    "Name": "Dottler",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/dottler.png"
+  },
+  "826": {
+    "Name": "Orbeetle",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/orbeetle.png"
+  },
+  "827": {
+    "Name": "Nickit",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/nickit.png"
+  },
+  "828": {
+    "Name": "Thievul",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/thievul.png"
+  },
+  "829": {
+    "Name": "Gossifleur",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/gossifleur.png"
+  },
+  "830": {
+    "Name": "Eldegoss",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/eldegoss.png"
+  },
+  "831": {
+    "Name": "Wooloo",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/wooloo.png"
+  },
+  "832": {
+    "Name": "Dubwool",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/dubwool.png"
+  },
+  "833": {
+    "Name": "Chewtle",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/chewtle.png"
+  },
+  "834": {
+    "Name": "Drednaw",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/drednaw.png"
+  },
+  "835": {
+    "Name": "Yamper",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/yamper.png"
+  },
+  "836": {
+    "Name": "Boltund",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/boltund.png"
+  },
+  "837": {
+    "Name": "Rolycoly",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/rolycoly.png"
+  },
+  "838": {
+    "Name": "Carkol",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/carkol.png"
+  },
+  "839": {
+    "Name": "Coalossal",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/coalossal.png"
+  },
+  "840": {
+    "Name": "Applin",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/applin.png"
+  },
+  "841": {
+    "Name": "Flapple",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/flapple.png"
+  },
+  "842": {
+    "Name": "Appletun",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/appletun.png"
+  },
+  "843": {
+    "Name": "Silicobra",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/silicobra.png"
+  },
+  "844": {
+    "Name": "Sandaconda",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/sandaconda.png"
+  },
+  "845": {
+    "Name": "Cramorant",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/cramorant.png"
+  },
+  "846": {
+    "Name": "Arrokuda",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/arrokuda.png"
+  },
+  "847": {
+    "Name": "Barraskewda",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/barraskewda.png"
+  },
+  "848": {
+    "Name": "Toxel",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/toxel.png"
+  },
+  "849": {
+    "Name": "Toxtricity",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/toxtricity.png"
+  },
+  "850": {
+    "Name": "Sizzlipede",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/sizzlipede.png"
+  },
+  "851": {
+    "Name": "Centiskorch",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/centiskorch.png"
+  },
+  "852": {
+    "Name": "Clobbopus",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/clobbopus.png"
+  },
+  "853": {
+    "Name": "Grapploct",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/grapploct.png"
+  },
+  "854": {
+    "Name": "Sinistea",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/sinistea.png"
+  },
+  "855": {
+    "Name": "Polteageist",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/polteageist.png"
+  },
+  "856": {
+    "Name": "Hatenna",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/hatenna.png"
+  },
+  "857": {
+    "Name": "Hattrem",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/hattrem.png"
+  },
+  "858": {
+    "Name": "Hatterene",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/hatterene.png"
+  },
+  "859": {
+    "Name": "Impidimp",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/impidimp.png"
+  },
+  "860": {
+    "Name": "Morgrem",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/morgrem.png"
+  },
+  "861": {
+    "Name": "Grimmsnarl",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/grimmsnarl.png"
+  },
+  "862": {
+    "Name": "Obstagoon",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/obstagoon.png"
+  },
+  "863": {
+    "Name": "Perrserker",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/perrserker.png"
+  },
+  "864": {
+    "Name": "Cursola",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/cursola.png"
+  },
+  "865": {
+    "Name": "Sirfetch'd",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/sirfetchd.png"
+  },
+  "866": {
+    "Name": "Mr. Rime",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/mr-rime.png"
+  },
+  "867": {
+    "Name": "Runerigus",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/runerigus.png"
+  },
+  "868": {
+    "Name": "Milcery",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/milcery.png"
+  },
+  "869": {
+    "Name": "Alcremie",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/alcremie.png"
+  },
+  "870": {
+    "Name": "Falinks",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/falinks.png"
+  },
+  "871": {
+    "Name": "Pincurchin",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/pincurchin.png"
+  },
+  "872": {
+    "Name": "Snom",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/snom.png"
+  },
+  "873": {
+    "Name": "Frosmoth",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/frosmoth.png"
+  },
+  "874": {
+    "Name": "Stonjourner",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/stonjourner.png"
+  },
+  "875": {
+    "Name": "Eiscue",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/eiscue.png"
+  },
+  "876": {
+    "Name": "Indeedee",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/indeedee.png"
+  },
+  "877": {
+    "Name": "Morpeko",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/morpeko.png"
+  },
+  "878": {
+    "Name": "Cufant",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/cufant.png"
+  },
+  "879": {
+    "Name": "Copperajah",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/copperajah.png"
+  },
+  "880": {
+    "Name": "Dracozolt",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/dracozolt.png"
+  },
+  "881": {
+    "Name": "Arctozolt",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/arctozolt.png"
+  },
+  "882": {
+    "Name": "Dracovish",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/dracovish.png"
+  },
+  "883": {
+    "Name": "Arctovish",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/arctovish.png"
+  },
+  "884": {
+    "Name": "Duraludon",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/duraludon.png"
+  },
+  "885": {
+    "Name": "Dreepy",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/dreepy.png"
+  },
+  "886": {
+    "Name": "Drakloak",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/drakloak.png"
+  },
+  "887": {
+    "Name": "Dragapult",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/dragapult.png"
+  },
+  "888": {
+    "Name": "Zacian",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/zacian.png"
+  },
+  "889": {
+    "Name": "Zamazenta",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/zamazenta.png"
+  },
+  "890": {
+    "Name": "Eternatus",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/eternatus.png"
+  },
+  "891": {
+    "Name": "Kubfu",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/kubfu.png"
+  },
+  "892": {
+    "Name": "Urshifu",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/urshifu.png"
+  },
+  "893": {
+    "Name": "Zarude",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/zarude.png"
+  },
+  "894": {
+    "Name": "Regieleki",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/regieleki.png"
+  },
+  "895": {
+    "Name": "Regidrago",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/regidrago.png"
+  },
+  "896": {
+    "Name": "Glastrier",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/glastrier.png"
+  },
+  "897": {
+    "Name": "Spectrier",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/spectrier.png"
+  },
+  "898": {
+    "Name": "Calyrex",
+    "Generation": 8,
+    "# of Training Images": 0,
+    "# of Testing Images": 0,
+    "Image URL": "https://img.pokemondb.net/sprites/sword-shield/normal/calyrex.png"
+  }
+}
