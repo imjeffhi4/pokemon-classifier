@@ -60,7 +60,7 @@ async def get_pokemon_image(x: Request):
     user_input = await x.json()
     data = user_input['poke_image']
     img = get_pillow_image(data)
-    extracted = feature_extractor(images=img, return_tensors='pt')
+    extracted = feature_extractor(images=img, return_tensors='pt').to(device)
     predicted_id = model(**extracted).logits.argmax(-1).item()
     predicted_pokemon = model.config.id2label[predicted_id]
     predicted_id = predicted_id + 1
