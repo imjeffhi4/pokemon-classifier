@@ -30,8 +30,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = ViTForImageClassification.from_pretrained( "./PokemonModel")
+device = "cuda" if torch.cuda.is_available() else "cpu"
+model = ViTForImageClassification.from_pretrained( "./PokemonModel").to(device)
 feature_extractor = ViTFeatureExtractor.from_pretrained('google/vit-base-patch16-224') # resizes and normalizes 
 
 with open('pokemon_data.json', 'r', encoding='utf-8') as r:
