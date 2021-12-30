@@ -1,6 +1,6 @@
 # Pokémon Classifier
 
-![Demo of the model deployed on the Ainize Platform. Disclaimer: All images used here were collected from publicly available sources and for demoing purposes only. ](https://i.ibb.co/5vw4QLT/demo.gif)
+![Demo of the model deployed on the Ainize Platform.](https://i.ibb.co/3srB9zt/demo-alternate.gif)
 
 Demo of the model deployed on the Ainize Platform. Disclaimer: All images used here were collected from publicly available sources and for demoing purposes only. 
 
