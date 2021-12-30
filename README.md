@@ -14,6 +14,8 @@ This repository contains the docker file used to build the Svelte app shown in t
 - Training was performed using PyTorch-lightning and used ViT-base (see training folder for source code).
 - Frontend demo was created using Svelte which was served using FastAPI.
 
+If you'd like more information about this model, check out my [Medium post](https://medium.com/@imjeffhi4/tutorial-using-vision-transformer-vit-to-create-a-pok%C3%A9mon-classifier-cb3f26ff2c20).
+
 # Results
 
 The model was able to achieve 95% accuracy on my validation dataset. Though, feel free to check out the demo and try it yourself!
