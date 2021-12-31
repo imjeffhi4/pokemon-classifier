@@ -1,8 +1,10 @@
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/imjeffhi4/pokemon-classifier)
+
 # Pokémon Classifier
 
 ![Demo of the model deployed on the Ainize Platform.](https://i.ibb.co/3srB9zt/demo-alternate.gif)
 
-Demo of the model deployed on the Ainize Platform. Disclaimer: All images used here were collected from publicly available sources and for demoing purposes only. 
+Demo of the model deployed on the Ainize Platform.
 
 # Intro
 
